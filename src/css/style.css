@@ -48,7 +48,12 @@
 
 #slider{
 	width: 100%;
+    position: sticky;
+	top:71px;
+	z-index:-1;
+    
 }
+
 .carousel-caption
 {
 	top:50%;
