@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/capture-productions/static/css/main.fa865ef8.css",
-    "main.js": "/capture-productions/static/js/main.4c7ca323.js",
+    "main.css": "/capture-productions/static/css/main.fd671d89.css",
+    "main.js": "/capture-productions/static/js/main.47dd1d7c.js",
     "static/media/wedding(8).jpg": "/capture-productions/static/media/wedding(8).baf3f7a4b80d890135f3.jpg",
     "static/media/wedding(1).jpg": "/capture-productions/static/media/wedding(1).e2579ff7ba67fad03a61.jpg",
     "static/media/wedding(7).jpg": "/capture-productions/static/media/wedding(7).92367b34139da804c670.jpg",
@@ -13,11 +13,11 @@
     "static/media/call.png": "/capture-productions/static/media/call.1bbb6bc36474cb4938ea.png",
     "static/media/map.png": "/capture-productions/static/media/map.8d75cd1dda4dd728e16a.png",
     "index.html": "/capture-productions/index.html",
-    "main.fa865ef8.css.map": "/capture-productions/static/css/main.fa865ef8.css.map",
-    "main.4c7ca323.js.map": "/capture-productions/static/js/main.4c7ca323.js.map"
+    "main.fd671d89.css.map": "/capture-productions/static/css/main.fd671d89.css.map",
+    "main.47dd1d7c.js.map": "/capture-productions/static/js/main.47dd1d7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa865ef8.css",
-    "static/js/main.4c7ca323.js"
+    "static/css/main.fd671d89.css",
+    "static/js/main.47dd1d7c.js"
   ]
 }
