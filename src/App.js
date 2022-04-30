@@ -1,9 +1,14 @@
 
-
+import "./css/style.css";
+import Navbar from "./Navbar";
+import Services from "./Services";
+import Slider from "./Slider";
 function App() {
   return (
     <div className="App">
-      <h1>Capture Productions</h1>
+      <Navbar/>
+      <Slider/>
+      <Services/>
     </div>
   );
 }
