@@ -117,3 +117,53 @@
 	cursor:pointer;
 	transition: 0.7s;
 }
+
+
+/*----------Get In Touch-------------*/
+#contact{
+	background-color: #efefef;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: #777;
+}
+.contact-form{
+	padding: 15px;
+}
+.form-group{
+	padding-bottom : 7px;
+}
+.form-control{
+	/*border-radius: 0;*/
+	/*border:none;*/
+}
+
+::placeholder{
+	color: #999;
+
+}
+.follow{
+	background:#fff;
+	padding: 10px;
+	margin:15px;
+}
+.follow img{
+	height:23px;
+}
+.contact-info img{
+	margin:3px;
+	color:#007bff;
+	font-weight: bold;
+}
+/*----------Footer-------------*/
+#footer{
+	background: #333;
+	background-color: #fff;
+	padding: 12px;
+
+
+}
+#footer p img{
+	height:25px;
+	margin:3px;
+	/*color: red;*/
+}

@@ -21,33 +21,33 @@ const Slider = () => {
 
   <div className="carousel-inner">
 
-    <div className="carousel-item active" data-bs-interval="5000" >
+    <div className="carousel-item active" data-bs-interval="4000" >
       <img src={wedding7} className="d-block img-fluid" alt="First Slide"/>
       <div className="carousel-caption">
       		{/* <!-- <h5>Caption 1<h5> --> */}
       </div>
     </div>
-    <div className="carousel-item" data-bs-interval="5000" >
+    <div className="carousel-item" data-bs-interval="4000" >
       <img src={wedding8} className="d-block img-fluid" alt="Second Slide"/>
     	<div className="carousel-caption">
       		{/* <!-- <h5>Caption 2<h5> --> */}
       </div>
     </div>
-    <div className="carousel-item" data-bs-interval="5000">
+    <div className="carousel-item" data-bs-interval="4000">
       <img src={wedding9} className="d-block img-fluid" alt="Third Slide"/>
     	<div className="carousel-caption">
       		{/* <!-- <h5>Caption 3<h5> --> */}
       </div>
     </div>
 
-        <div className="carousel-item" data-bs-interval="5000">
+        <div className="carousel-item" data-bs-interval="4000">
       <img src={wedding1} className="d-block img-fluid" alt="Fourth Slide"/>
     	<div className="carousel-caption">
       		{/* <!-- <h5>Caption 4<h5> --> */}
       </div>
     </div>
 
-       <div className="carousel-item" data-bs-interval="5000">
+       <div className="carousel-item" data-bs-interval="4000">
       <img src={wedding2} className="d-block img-fluid" alt="Fifth Slide"/>
     	<div className="carousel-caption">
       		{/* <!-- <h5>Caption 5<h5> --> */}
