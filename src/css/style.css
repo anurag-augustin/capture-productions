@@ -50,7 +50,8 @@
 	width: 100%;
     position: sticky;
 	top:71px;
-	z-index:-1;
+    /* z-index: -1; */
+	
     
 }
 
@@ -68,6 +69,7 @@
 	text-shadow:5px 5px 10px black;
 }
 
+
 /* Services */
 
 #services{
@@ -78,6 +80,10 @@
 	background-attachment: fixed;
 	padding-top: 50px;
 	padding-bottom: 50px; 
+    position: relative;
+	top:0px;
+    z-index: 9;
+   
 }
 
 #services h1{
@@ -130,6 +136,11 @@
 	padding-top: 40px;
 	padding-bottom: 40px;
 	color: #777;
+	position: relative;
+	top:0px;
+    z-index: 9;
+   
+   
 }
 .contact-form{
 	padding: 15px;
@@ -137,10 +148,10 @@
 .form-group{
 	padding-bottom : 7px;
 }
-.form-control{
+/* .form-control{ */
 	/*border-radius: 0;*/
 	/*border:none;*/
-}
+/* } */
 
 ::placeholder{
 	color: #999;
@@ -164,11 +175,14 @@
 	background: #333;
 	background-color: #fff;
 	padding: 12px;
-
+	position: relative;
+	top:0px;
+    z-index: 9;
 
 }
 #footer p img{
 	height:25px;
 	margin:3px;
+   
 	/*color: red;*/
 }
