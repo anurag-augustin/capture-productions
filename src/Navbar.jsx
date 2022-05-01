@@ -6,7 +6,7 @@ const Navbar = () => {
       <section id="nav-bar">
         <nav className="navbar navbar-expand-lg navbar-light">
           <div className="container-fluid">
-            <a className="navbar-brand" href="#slider">
+            <a className="navbar-brand" href="#">
               <img src={logo} alt="logo" />
             </a>
             <button

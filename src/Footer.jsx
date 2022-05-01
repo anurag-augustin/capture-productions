@@ -5,8 +5,8 @@ const Footer = () => {
     <>
     <section id="footer">
 	<div className="container text-center">
-		<p>Made by Anurag Augustin Bilung</p>
-		<p>©CaptureProduction</p>
+		{/* <p>Made by Anurag Augustin Bilung</p> */}
+		<p>©Capture Production 2022</p>
 	</div>
 </section>
     </>
