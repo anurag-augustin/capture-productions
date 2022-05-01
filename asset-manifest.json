@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/capture-productions/static/css/main.7c998e22.css",
-    "main.js": "/capture-productions/static/js/main.47dd1d7c.js",
+    "main.css": "/capture-productions/static/css/main.3975f890.css",
+    "main.js": "/capture-productions/static/js/main.d672d11a.js",
     "static/media/wedding(8).jpg": "/capture-productions/static/media/wedding(8).baf3f7a4b80d890135f3.jpg",
     "static/media/wedding(1).jpg": "/capture-productions/static/media/wedding(1).e2579ff7ba67fad03a61.jpg",
     "static/media/wedding(7).jpg": "/capture-productions/static/media/wedding(7).92367b34139da804c670.jpg",
     "static/media/wedding(9).jpg": "/capture-productions/static/media/wedding(9).d55fb6458e10c75514f6.jpg",
     "static/media/wedding(2).jpg": "/capture-productions/static/media/wedding(2).e6cdb27695c8a3336dfa.jpg",
+    "static/media/gallery(1).jpg": "/capture-productions/static/media/gallery(1).0b440956733a9460cd55.jpg",
     "static/media/services.jpg": "/capture-productions/static/media/services.b5e3b12f2e21da0e987b.jpg",
+    "static/media/gallery(3).jpg": "/capture-productions/static/media/gallery(3).e8098cd1bd220821d853.jpg",
+    "static/media/gallery(4).jpg": "/capture-productions/static/media/gallery(4).1d21f762a528022d58aa.jpg",
+    "static/media/gallery(5).jpg": "/capture-productions/static/media/gallery(5).33afabccf94696118e63.jpg",
+    "static/media/gallery(2).jpg": "/capture-productions/static/media/gallery(2).d078b67844fb2ec20ad1.jpg",
     "static/media/logo.png": "/capture-productions/static/media/logo.8a1d8b2f4950ab874d46.png",
     "static/media/insta.png": "/capture-productions/static/media/insta.1b21d77ab5e8f37e4595.png",
     "static/media/call.png": "/capture-productions/static/media/call.1bbb6bc36474cb4938ea.png",
     "static/media/map.png": "/capture-productions/static/media/map.8d75cd1dda4dd728e16a.png",
     "index.html": "/capture-productions/index.html",
-    "main.7c998e22.css.map": "/capture-productions/static/css/main.7c998e22.css.map",
-    "main.47dd1d7c.js.map": "/capture-productions/static/js/main.47dd1d7c.js.map"
+    "main.3975f890.css.map": "/capture-productions/static/css/main.3975f890.css.map",
+    "main.d672d11a.js.map": "/capture-productions/static/js/main.d672d11a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c998e22.css",
-    "static/js/main.47dd1d7c.js"
+    "static/css/main.3975f890.css",
+    "static/js/main.d672d11a.js"
   ]
 }
